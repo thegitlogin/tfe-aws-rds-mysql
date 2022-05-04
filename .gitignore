@@ -1,0 +1,6 @@
+.terraform.*
+.terraform
+Jenkinsfile
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
